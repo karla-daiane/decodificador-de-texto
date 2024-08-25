@@ -1,3 +1,5 @@
+Link: https://karla-daiane.github.io/decodificador-de-texto/
+
 > Challenge Decodificador de Texto
 * Este repositório contém a solução do desafio proposto no curso "Praticando lógica de programação: Challenge Decodificador de Texto" da Alura. O desafio consiste em desenvolver um decodificador de texto utilizando as tecnologias básicas da web: HTML, CSS e JavaScript.
 
